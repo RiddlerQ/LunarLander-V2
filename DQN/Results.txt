@@ -1,0 +1,45 @@
+0: 
+Lowest Loss: 0.6654853095967274
+Average rewards: 250.80369592293496
+
+1: 
+Lowest Loss: 0.5335317189891416
+Average rewards: 169.8945482489484
+
+2: 
+Lowest Loss: 0.6637892181601869
+Average rewards: 233.2194361700057
+
+3: 
+Lowest Loss: 0.6155310618787703
+Average rewards: 177.5826067376277
+
+4: 
+Lowest Loss: 0.5465298241184826
+Average rewards: 170.49658288972336
+
+5: 
+Lowest Loss: 0.7490728251569085
+Average rewards: 207.2083123517186
+
+6: 
+Lowest Loss: 0.5621520358992559
+Average rewards: 188.79412282556635
+
+7: 
+Lowest Loss: 0.6586721250008258
+Average rewards: 80.1192028710017
+
+8: 
+Lowest Loss: 0.5955586882897226
+Average rewards: 78.28428938586785
+
+9: 
+Lowest Loss: 0.553513998645469
+Average rewards: 172.65118140541
+
+
+
+
+Average lowest loss in general: 0.614383680573549
+Average rewards in general: 172.90539788088046
