@@ -130,6 +130,9 @@ for test_number in range(tests):
 
             if done == True:
                 break
+                
+        if epsilon > 0.01:
+            epsilon *= 0.9955
 
         if len(losses) != 0:
             losses_avg.append(np.average(losses))
